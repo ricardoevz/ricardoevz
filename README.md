@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+#### I'm a passionate front-end developer from Mexico 🇲🇽.
+
+Frontend Developer | JavaScript | AngularJs | ReactJS | TypeScript | Desarrollo Web
+
 <!--
 **ricardoevz/ricardoevz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
